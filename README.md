@@ -40,3 +40,5 @@ Pengimplementasian oop dapat saya contohkan dalam kehidupan sehari" kita
 1. e-commerce banyak sekali terdapat item" yang dimana dalam mengorganisir kode kode sistem seperti item belanja dsb menggunakan oop.
 2. dalam bermain game tentu kita sering menggunakan item item karakter dll tentu saja itu merupakan kode kode yang menggunakan oop.
 3. mesin, setir, ban/roda, dapat juga kita implementasikan sebagai oop dalam bentuk benda.
+
+uplooaded by <a href="https://github.com/Dlann12"> Fadlan Dwi Febrio
