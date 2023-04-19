@@ -36,4 +36,7 @@ Inheritance: Inheritance adalah konsep dalam OOP yang memungkinkan suatu objek u
 
 Polymorphism: Polymorphism adalah konsep dalam OOP yang memungkinkan suatu objek untuk memiliki banyak bentuk. Dalam functional programming, konsep polymorphism diimplementasikan melalui higher-order functions.
 
-
+Pengimplementasian oop dapat saya contohkan dalam kehidupan sehari" kita
+1. e-commerce banyak sekali terdapat item" yang dimana dalam mengorganisir kode kode sistem seperti item belanja dsb menggunakan oop.
+2. dalam bermain game tentu kita sering menggunakan item item karakter dll tentu saja itu merupakan kode kode yang menggunakan oop.
+3. mesin, setir, ban/roda, dapat juga kita implementasikan sebagai oop dalam bentuk benda.
