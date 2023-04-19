@@ -26,4 +26,14 @@ Kesepakatan utama dengan OOP adalah kemampuan untuk merangkum data dari pihak lu
 
 - Lihat <a href=https://github.com/Dlann12/TugasPbo1/blob/main/oop.py>Object oriented programming.</a><br><br>
 
+Pada dasarnya, OOP dan functional programming adalah paradigma pemrograman yang berbeda. Namun, ada beberapa perbedaan antara keduanya:
+
+Fokus utama: Fokus utama OOP adalah objek, sedangkan fokus utama functional programming adalah fungsi. Dalam OOP, objek-objek dipandang sebagai unit utama, sementara dalam functional programming, fungsi-fungsi dipandang sebagai unit utama.
+
+State: Dalam OOP, objek dapat memiliki state, yaitu nilai-nilai yang dapat berubah selama program berjalan. Dalam functional programming, state tidak dapat diubah setelah dibuat. Fungsi-fungsi dalam functional programming cenderung tidak memiliki efek samping dan menghasilkan output yang hanya bergantung pada inputnya.
+
+Inheritance: Inheritance adalah konsep dalam OOP yang memungkinkan suatu objek untuk mewarisi sifat-sifat dari objek lain. Dalam functional programming, konsep inheritance tidak diterapkan.
+
+Polymorphism: Polymorphism adalah konsep dalam OOP yang memungkinkan suatu objek untuk memiliki banyak bentuk. Dalam functional programming, konsep polymorphism diimplementasikan melalui higher-order functions.
+
 
